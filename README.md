@@ -24,8 +24,7 @@ Were the assumptions correct?
 - we are currently in the first week and detailed information regarding the project will be given the next week
 
 What did we learn? 
-- This week we learned how to work in Scrum, dividing user stories from project owner and developers in to doable task and how
-these task are to be scheduled and prioritize and organized in to a functional "factory" line to create the application we need
+- This week we learned information about the project RTF and their plan to make travelling much better but centralizing data from ferries. We also learned about visons, scope and breaking down these to user stories and task.
 
 Can we show improvement?
-- Due to the fact that we have not started the project yet, we can not know for sure but with the scrum exercises we could start understanding how the workflow should be
+- We can definitely show improvement throughout the project which will be seen in the process of making the application we want
