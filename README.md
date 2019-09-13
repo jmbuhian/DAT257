@@ -21,7 +21,7 @@ What do we need to know?
 FEEDBACK
 
 Were the assumptions correct?
-- we are currently in the first week and detailed information regarding the project will be given the next week
+- the assumptions from last week were correct
 
 What did we learn? 
 - This week we learned information about the project RTF and their plan to make travelling much better but centralizing data from ferries. We also learned about visons, scope and breaking down these to user stories and task.
